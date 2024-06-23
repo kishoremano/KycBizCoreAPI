@@ -10,4 +10,4 @@ namespace KycBizWebApi
 
         public string? Summary { get; set; }
     }
-}
+} 
