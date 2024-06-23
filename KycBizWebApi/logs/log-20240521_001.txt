@@ -1,0 +1,11 @@
+2024-05-21 23:21:27.337 +05:30 [WRN] Sentry tracing middleware was already registered. This call to UseSentryTracing is unnecessary.
+2024-05-21 23:21:28.190 +05:30 [INF] DiagnosticSource Integration is disabled because tracing is disabled.
+2024-05-21 23:21:29.807 +05:30 [INF] Sentry trace header is null. Creating new Sentry Propagation Context.
+2024-05-21 23:21:30.282 +05:30 [INF] Started transaction with span ID 'c65cf49ea80388db' and trace ID 'f94b57b87b2d493c9165ac6fc8c4ac38'.
+2024-05-21 23:28:15.039 +05:30 [INF] Sentry trace header is null. Creating new Sentry Propagation Context.
+2024-05-21 23:28:17.625 +05:30 [INF] Sentry trace header is null. Creating new Sentry Propagation Context.
+2024-05-21 23:28:17.625 +05:30 [INF] Sentry trace header is null. Creating new Sentry Propagation Context.
+2024-05-21 23:28:47.792 +05:30 [INF] Sentry trace header is null. Creating new Sentry Propagation Context.
+2024-05-21 23:28:47.825 +05:30 [INF] Started transaction with span ID '69f24f70495e5f0a' and trace ID 'dd326d8cbe424cbfb2e43e4999a752cd'.
+2024-05-21 23:28:51.752 +05:30 [INF] Login Verification
+2024-05-21 23:37:14.852 +05:30 [INF] Starting web host

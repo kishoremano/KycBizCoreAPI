@@ -1,0 +1,145 @@
+2024-06-11 20:27:34.026 +05:30 [INF] Starting web host 
+2024-06-11 22:49:25.024 +05:30 [INF] New User Registration. 
+2024-06-11 22:49:35.107 +05:30 [WRN] The decimal property 'ErrorId' is part of a key on entity type 'ErrorLog'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. 
+2024-06-11 22:49:40.034 +05:30 [INF] Validating Password 
+2024-06-11 22:49:45.578 +05:30 [INF] Password must be at least 8 characters long. 
+2024-06-11 22:50:16.610 +05:30 [INF] New User Registration. 
+2024-06-11 22:50:16.670 +05:30 [INF] Validating Password 
+2024-06-11 22:50:16.671 +05:30 [INF] Password must contain at least one uppercase letter. 
+2024-06-11 22:50:40.038 +05:30 [INF] New User Registration. 
+2024-06-11 22:50:40.049 +05:30 [INF] Validating Password 
+2024-06-11 22:50:40.050 +05:30 [INF] Password must contain at least one lowercase letter. 
+2024-06-11 22:51:01.587 +05:30 [INF] New User Registration. 
+2024-06-11 22:51:01.610 +05:30 [INF] Validating Password 
+2024-06-11 22:51:01.611 +05:30 [INF] Password Valid 
+2024-06-11 22:51:11.383 +05:30 [INF] New User Added with given information (DataAccessLayer.Models.UserInfo) 
+2024-06-11 22:51:11.625 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-06-11 22:51:17.273 +05:30 [ERR] E-Mail Send failure:System.Net.Mail.SmtpException: Failure sending mail.
+ ---> System.Net.Sockets.SocketException (0x00002AF9): No such host is known.
+   at System.Net.Dns.GetHostEntryOrAddressesCore(String hostName, Boolean justAddresses, AddressFamily addressFamily, Int64 startingTimestamp)
+   at System.Net.Dns.GetHostAddresses(String hostNameOrAddress, AddressFamily family)
+   at System.Net.Sockets.Socket.Connect(String host, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   at System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at KycBizWebApi.Repository.Users.UserRespository.SendEmail(String strto, String strfrom, String strCC, String strSubject, String strBody, Int32& flg, Boolean isImportExpressShipment) in D:\kishore\Latest\KYC\DataAccessLayer\Repository\Users\UserRespository.cs:line 284 
+2024-06-11 22:51:17.275 +05:30 [WRN] There is an Issue in Mail send process. 
+2024-06-11 22:53:08.038 +05:30 [INF] New User Registration. 
+2024-06-11 22:53:08.124 +05:30 [WRN] Data Already Exists,User Email Verification Pending 
+2024-06-11 22:53:50.146 +05:30 [INF] Login Verification 
+2024-06-11 22:54:36.708 +05:30 [INF] Resend OTP 
+2024-06-11 22:55:08.517 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-06-11 22:56:45.597 +05:30 [ERR] E-Mail Send failure:System.Net.Mail.SmtpException: Failure sending mail.
+ ---> System.Net.Sockets.SocketException (0x00002AF9): No such host is known.
+   at System.Net.Dns.GetHostEntryOrAddressesCore(String hostName, Boolean justAddresses, AddressFamily addressFamily, Int64 startingTimestamp)
+   at System.Net.Dns.GetHostAddresses(String hostNameOrAddress, AddressFamily family)
+   at System.Net.Sockets.Socket.Connect(String host, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   at System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at KycBizWebApi.Repository.Users.UserRespository.SendEmail(String strto, String strfrom, String strCC, String strSubject, String strBody, Int32& flg, Boolean isImportExpressShipment) in D:\kishore\Latest\KYC\DataAccessLayer\Repository\Users\UserRespository.cs:line 284 
+2024-06-11 22:56:45.599 +05:30 [WRN] There is an Issue in Mail send process. 
+2024-06-11 22:59:06.199 +05:30 [INF] Verify Email Otp 
+2024-06-11 22:59:18.090 +05:30 [INF] OTP Expired. 
+2024-06-11 22:59:23.128 +05:30 [INF] OTP Expired. 
+2024-06-11 22:59:59.291 +05:30 [INF] Resend OTP 
+2024-06-11 22:59:59.433 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-06-11 23:00:03.468 +05:30 [ERR] E-Mail Send failure:System.Net.Mail.SmtpException: Failure sending mail.
+ ---> System.Net.Sockets.SocketException (0x00002AF9): No such host is known.
+   at System.Net.Dns.GetHostEntryOrAddressesCore(String hostName, Boolean justAddresses, AddressFamily addressFamily, Int64 startingTimestamp)
+   at System.Net.Dns.GetHostAddresses(String hostNameOrAddress, AddressFamily family)
+   at System.Net.Sockets.Socket.Connect(String host, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   at System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at KycBizWebApi.Repository.Users.UserRespository.SendEmail(String strto, String strfrom, String strCC, String strSubject, String strBody, Int32& flg, Boolean isImportExpressShipment) in D:\kishore\Latest\KYC\DataAccessLayer\Repository\Users\UserRespository.cs:line 284 
+2024-06-11 23:00:03.468 +05:30 [WRN] There is an Issue in Mail send process. 
+2024-06-11 23:00:53.598 +05:30 [INF] Verify Email Otp 
+2024-06-11 23:00:55.503 +05:30 [INF] OTP Verfication completed. 
+2024-06-11 23:01:01.836 +05:30 [ERR] E-Mail Send failure:System.Net.Mail.SmtpException: Failure sending mail.
+ ---> System.Net.Sockets.SocketException (0x00002AF9): No such host is known.
+   at System.Net.Dns.GetHostEntryOrAddressesCore(String hostName, Boolean justAddresses, AddressFamily addressFamily, Int64 startingTimestamp)
+   at System.Net.Dns.GetHostAddresses(String hostNameOrAddress, AddressFamily family)
+   at System.Net.Sockets.Socket.Connect(String host, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   at System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at KycBizWebApi.Repository.Users.UserRespository.SendEmail(String strto, String strfrom, String strCC, String strSubject, String strBody, Int32& flg, Boolean isImportExpressShipment) in D:\kishore\Latest\KYC\DataAccessLayer\Repository\Users\UserRespository.cs:line 284 
+2024-06-11 23:01:01.836 +05:30 [WRN] There is an Issue in Mail send process. 
+2024-06-11 23:01:01.836 +05:30 [INF] E-Mail Verified. 
+2024-06-11 23:01:41.948 +05:30 [INF] Login Verification 
+2024-06-11 23:02:18.128 +05:30 [INF] Login Verification 
+2024-06-11 23:02:44.613 +05:30 [INF] Login Verification 
+2024-06-11 23:02:48.567 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-06-11 23:02:50.227 +05:30 [ERR] E-Mail Send failure:System.Net.Mail.SmtpException: Failure sending mail.
+ ---> System.Net.Sockets.SocketException (0x00002AF9): No such host is known.
+   at System.Net.Dns.GetHostEntryOrAddressesCore(String hostName, Boolean justAddresses, AddressFamily addressFamily, Int64 startingTimestamp)
+   at System.Net.Dns.GetHostAddresses(String hostNameOrAddress, AddressFamily family)
+   at System.Net.Sockets.Socket.Connect(String host, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   at System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at KycBizWebApi.Repository.Users.UserRespository.SendEmail(String strto, String strfrom, String strCC, String strSubject, String strBody, Int32& flg, Boolean isImportExpressShipment) in D:\kishore\Latest\KYC\DataAccessLayer\Repository\Users\UserRespository.cs:line 284 
+2024-06-11 23:02:50.228 +05:30 [WRN] There is an Issue in Mail send process. 
+2024-06-11 23:03:32.663 +05:30 [INF] Login Otp Verify 
+2024-06-11 23:03:34.334 +05:30 [INF] OTP Verfication completed. 
+2024-06-11 23:03:37.268 +05:30 [INF] Token Generated 
+2024-06-11 23:03:37.269 +05:30 [INF] Token Generated 
+2024-06-11 23:21:54.887 +05:30 [INF] Login Otp Verify 
+2024-06-11 23:21:57.734 +05:30 [INF] OTP Expired. 
+2024-06-11 23:21:57.734 +05:30 [WRN] OTP Expired. 
+2024-06-11 23:22:10.645 +05:30 [INF] Login Verification 
+2024-06-11 23:22:10.709 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-06-11 23:22:13.080 +05:30 [ERR] E-Mail Send failure:System.Net.Mail.SmtpException: Failure sending mail.
+ ---> System.Net.Sockets.SocketException (0x00002AF9): No such host is known.
+   at System.Net.Dns.GetHostEntryOrAddressesCore(String hostName, Boolean justAddresses, AddressFamily addressFamily, Int64 startingTimestamp)
+   at System.Net.Dns.GetHostAddresses(String hostNameOrAddress, AddressFamily family)
+   at System.Net.Sockets.Socket.Connect(String host, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   at System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at KycBizWebApi.Repository.Users.UserRespository.SendEmail(String strto, String strfrom, String strCC, String strSubject, String strBody, Int32& flg, Boolean isImportExpressShipment) in D:\kishore\Latest\KYC\DataAccessLayer\Repository\Users\UserRespository.cs:line 284 
+2024-06-11 23:22:13.081 +05:30 [WRN] There is an Issue in Mail send process. 
+2024-06-11 23:22:50.147 +05:30 [INF] Login Otp Verify 
+2024-06-11 23:22:52.921 +05:30 [INF] OTP Verfication completed. 
+2024-06-11 23:22:52.922 +05:30 [INF] Token Generated 
+2024-06-11 23:22:52.922 +05:30 [INF] Token Generated 
+2024-06-11 23:23:37.760 +05:30 [INF] Get User Details 
+2024-06-11 23:23:37.882 +05:30 [INF] AESDecrypt 
+2024-06-11 23:24:12.082 +05:30 [INF] Get User Details 
+2024-06-11 23:24:17.651 +05:30 [INF] AESDecrypt 
+2024-06-11 23:24:32.355 +05:30 [INF] Get User Details 
+2024-06-11 23:24:53.961 +05:30 [INF] AESDecrypt 
+2024-06-11 23:27:33.642 +05:30 [INF] Get User Details 
+2024-06-11 23:33:13.357 +05:30 [INF] Starting web host 
+2024-06-11 23:36:33.402 +05:30 [INF] Starting web host 
+2024-06-11 23:41:51.250 +05:30 [INF] Update Profile Info 
+2024-06-11 23:41:51.270 +05:30 [INF] Authorized with User http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier: kycBizAccessToken 
+2024-06-11 23:41:58.847 +05:30 [INF] AESEncrypt 
+2024-06-11 23:42:08.907 +05:30 [WRN] The decimal property 'ErrorId' is part of a key on entity type 'ErrorLog'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. 
+2024-06-11 23:43:10.288 +05:30 [INF] Update Profile Info 
+2024-06-11 23:43:10.290 +05:30 [INF] Authorized with User http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier: kycBizAccessToken 
+2024-06-11 23:43:17.959 +05:30 [INF] AESEncrypt 
+2024-06-11 23:43:24.879 +05:30 [INF] Profile Updated Success 
+2024-06-11 23:45:59.193 +05:30 [INF] Get User Details 
+2024-06-11 23:46:01.113 +05:30 [INF] AESDecrypt 
+2024-06-11 23:47:08.618 +05:30 [INF] Get User Details 
+2024-06-11 23:47:15.670 +05:30 [INF] AESDecrypt 

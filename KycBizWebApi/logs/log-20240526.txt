@@ -1,0 +1,39 @@
+2024-05-26 12:49:22.301 +05:30 [INF] Starting web host 
+2024-05-26 12:59:42.388 +05:30 [INF] New User Registration. 
+2024-05-26 13:00:16.965 +05:30 [INF] New User Added with given information (DataAccessLayer.Models.UserInfo) 
+2024-05-26 13:00:42.915 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-05-26 13:00:53.148 +05:30 [ERR] E-Mail Send failure:System.Net.Mail.SmtpException: Failure sending mail.
+ ---> System.Net.Sockets.SocketException (0x00002AF9): No such host is known.
+   at System.Net.Dns.GetHostEntryOrAddressesCore(String hostName, Boolean justAddresses, AddressFamily addressFamily, Int64 startingTimestamp)
+   at System.Net.Dns.GetHostAddresses(String hostNameOrAddress, AddressFamily family)
+   at System.Net.Sockets.Socket.Connect(String host, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   at System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- End of inner exception stack trace ---
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at KycBizWebApi.Repository.Users.UserRespository.SendEmail(String strto, String strfrom, String strCC, String strSubject, String strBody, Int32& flg, Boolean isImportExpressShipment) 
+2024-05-26 20:11:25.654 +05:30 [INF] Starting web host 
+2024-05-26 20:12:56.658 +05:30 [INF] Resend OTP 
+2024-05-26 20:13:03.811 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-05-26 20:13:37.906 +05:30 [INF] Resend OTP 
+2024-05-26 22:14:32.180 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-05-26 22:15:56.459 +05:30 [INF] Resend OTP 
+2024-05-26 22:15:56.478 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-05-26 22:17:20.227 +05:30 [INF] Starting web host 
+2024-05-26 22:21:04.765 +05:30 [INF] Starting web host 
+2024-05-26 22:38:14.910 +05:30 [INF] Resend OTP 
+2024-05-26 22:39:55.223 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-05-26 22:41:11.625 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-26 22:41:19.280 +05:30 [INF] Mail Log Details Saved. 
+2024-05-26 22:48:09.812 +05:30 [INF] Verify Email Otp 
+2024-05-26 22:49:35.328 +05:30 [INF] OTP Expired. 
+2024-05-26 22:59:20.166 +05:30 [INF] Starting web host 
+2024-05-26 23:06:06.758 +05:30 [INF] Verify Email Otp 
+2024-05-26 23:13:18.902 +05:30 [INF] Starting web host 
+2024-05-26 23:15:49.578 +05:30 [INF] Verify Email Otp 
+2024-05-26 23:16:26.768 +05:30 [INF] OTP Expired. 
+2024-05-26 23:27:46.718 +05:30 [INF] Resend OTP 
+2024-05-26 23:28:07.347 +05:30 [INF] Resend OTP 
+2024-05-26 23:29:10.499 +05:30 [INF] Starting web host 

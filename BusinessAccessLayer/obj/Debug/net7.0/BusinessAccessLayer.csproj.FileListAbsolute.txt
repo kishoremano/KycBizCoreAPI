@@ -1,0 +1,70 @@
+D:\kishore\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.deps.json
+D:\kishore\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.runtimeconfig.json
+D:\kishore\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.dll
+D:\kishore\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.pdb
+D:\kishore\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.csproj.AssemblyReference.cache
+D:\kishore\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\kishore\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.AssemblyInfoInputs.cache
+D:\kishore\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.AssemblyInfo.cs
+D:\kishore\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+D:\kishore\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.dll
+D:\kishore\BusinessAccessLayer\obj\Debug\net7.0\refint\BusinessAccessLayer.dll
+D:\kishore\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.pdb
+D:\kishore\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.genruntimeconfig.cache
+D:\kishore\BusinessAccessLayer\obj\Debug\net7.0\ref\BusinessAccessLayer.dll
+D:\Kishore\130524\KYC\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.deps.json
+D:\Kishore\130524\KYC\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.runtimeconfig.json
+D:\Kishore\130524\KYC\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.dll
+D:\Kishore\130524\KYC\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.pdb
+D:\Kishore\130524\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.csproj.AssemblyReference.cache
+D:\Kishore\130524\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kishore\130524\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.AssemblyInfoInputs.cache
+D:\Kishore\130524\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.AssemblyInfo.cs
+D:\Kishore\130524\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+D:\Kishore\130524\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.dll
+D:\Kishore\130524\KYC\BusinessAccessLayer\obj\Debug\net7.0\refint\BusinessAccessLayer.dll
+D:\Kishore\130524\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.pdb
+D:\Kishore\130524\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.genruntimeconfig.cache
+D:\Kishore\130524\KYC\BusinessAccessLayer\obj\Debug\net7.0\ref\BusinessAccessLayer.dll
+D:\kishore\New folder\KYC\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.deps.json
+D:\kishore\New folder\KYC\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.runtimeconfig.json
+D:\kishore\New folder\KYC\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.dll
+D:\kishore\New folder\KYC\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.pdb
+D:\kishore\New folder\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.csproj.AssemblyReference.cache
+D:\kishore\New folder\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\kishore\New folder\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.AssemblyInfoInputs.cache
+D:\kishore\New folder\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.AssemblyInfo.cs
+D:\kishore\New folder\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+D:\kishore\New folder\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.dll
+D:\kishore\New folder\KYC\BusinessAccessLayer\obj\Debug\net7.0\refint\BusinessAccessLayer.dll
+D:\kishore\New folder\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.pdb
+D:\kishore\New folder\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.genruntimeconfig.cache
+D:\kishore\New folder\KYC\BusinessAccessLayer\obj\Debug\net7.0\ref\BusinessAccessLayer.dll
+D:\Kishore\240524\KYC\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.deps.json
+D:\Kishore\240524\KYC\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.runtimeconfig.json
+D:\Kishore\240524\KYC\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.dll
+D:\Kishore\240524\KYC\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.pdb
+D:\Kishore\240524\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.csproj.AssemblyReference.cache
+D:\Kishore\240524\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kishore\240524\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.AssemblyInfoInputs.cache
+D:\Kishore\240524\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.AssemblyInfo.cs
+D:\Kishore\240524\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+D:\Kishore\240524\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.dll
+D:\Kishore\240524\KYC\BusinessAccessLayer\obj\Debug\net7.0\refint\BusinessAccessLayer.dll
+D:\Kishore\240524\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.pdb
+D:\Kishore\240524\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.genruntimeconfig.cache
+D:\Kishore\240524\KYC\BusinessAccessLayer\obj\Debug\net7.0\ref\BusinessAccessLayer.dll
+D:\kishore\Latest\KYC\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.deps.json
+D:\kishore\Latest\KYC\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.runtimeconfig.json
+D:\kishore\Latest\KYC\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.dll
+D:\kishore\Latest\KYC\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.pdb
+D:\kishore\Latest\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.csproj.AssemblyReference.cache
+D:\kishore\Latest\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\kishore\Latest\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.AssemblyInfoInputs.cache
+D:\kishore\Latest\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.AssemblyInfo.cs
+D:\kishore\Latest\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+D:\kishore\Latest\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.dll
+D:\kishore\Latest\KYC\BusinessAccessLayer\obj\Debug\net7.0\refint\BusinessAccessLayer.dll
+D:\kishore\Latest\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.pdb
+D:\kishore\Latest\KYC\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.genruntimeconfig.cache
+D:\kishore\Latest\KYC\BusinessAccessLayer\obj\Debug\net7.0\ref\BusinessAccessLayer.dll

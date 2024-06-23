@@ -1,0 +1,44 @@
+2024-06-03 00:00:31.714 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-06-03 00:00:31.742 +05:30 [INF] Mail Log Details Saved. 
+2024-06-03 00:00:31.745 +05:30 [INF] Password reset successfully done. 
+2024-06-03 00:06:15.221 +05:30 [INF] AESDecrypt 
+2024-06-03 00:07:03.985 +05:30 [INF] ResetPassword 
+2024-06-03 00:07:09.334 +05:30 [INF] User not found in ResetPassword 
+2024-06-03 00:07:36.556 +05:30 [INF] ResetPassword 
+2024-06-03 00:08:00.619 +05:30 [INF] GetDeviceDetails 
+2024-06-03 00:08:00.668 +05:30 [INF] Device Details Found 
+2024-06-03 00:08:08.489 +05:30 [INF] Password has been used recently. Please choose a different password 
+2024-06-03 00:08:57.224 +05:30 [INF] Password has been used recently. Please choose a different password 
+2024-06-03 00:09:07.320 +05:30 [INF] System.Collections.Generic.List`1[Microsoft.AspNetCore.Identity.IdentityError] 
+2024-06-03 00:11:49.630 +05:30 [INF] Password has been used recently. Please choose a different password. 
+2024-06-03 00:13:13.234 +05:30 [INF] ResetPassword 
+2024-06-03 00:13:51.036 +05:30 [INF] GetLocationDetails 
+2024-06-03 00:15:07.618 +05:30 [INF] GetLocationDetails 
+2024-06-03 00:15:24.588 +05:30 [INF] Location Details found 
+2024-06-03 00:16:09.599 +05:30 [INF] GetDeviceDetails 
+2024-06-03 00:16:09.661 +05:30 [INF] Device Details Found 
+2024-06-03 00:17:36.459 +05:30 [INF] Password History Saved 
+2024-06-03 00:17:45.778 +05:30 [INF] Forgot Token Verification completed and Password Changed 
+2024-06-03 00:17:57.135 +05:30 [INF] Forgot Pass Token saved with given Information(DataAccessLayer.Models.ForgotPasswordLog) 
+2024-06-03 00:17:59.143 +05:30 [INF] AESEncrypt 
+2024-06-03 00:19:18.757 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-06-03 00:19:18.771 +05:30 [INF] Mail Log Details Saved. 
+2024-06-03 00:19:18.771 +05:30 [INF] Password reset successfully done. 
+2024-06-03 00:30:45.676 +05:30 [INF] AESDecrypt 
+2024-06-03 00:31:41.548 +05:30 [INF] Forgot Password 
+2024-06-03 00:45:50.271 +05:30 [INF] Starting web host 
+2024-06-03 00:56:54.983 +05:30 [INF] Forgot Password 
+2024-06-03 01:00:39.370 +05:30 [INF] AESEncrypt 
+2024-06-03 01:01:02.085 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-06-03 01:01:02.749 +05:30 [INF] Mail Log Details Saved. 
+2024-06-03 01:01:33.217 +05:30 [INF] AESDecrypt 
+2024-06-03 01:02:15.113 +05:30 [INF] ResetPassword 
+2024-06-03 01:02:28.288 +05:30 [INF] GetDeviceDetails 
+2024-06-03 01:02:28.409 +05:30 [INF] Device Details Found 
+2024-06-03 01:03:04.378 +05:30 [INF] Password History Saved 
+2024-06-03 01:03:09.917 +05:30 [INF] Forgot Token Verification completed and Password Changed 
+2024-06-03 01:03:19.851 +05:30 [INF] Forgot Pass Token saved with given Information(DataAccessLayer.Models.ForgotPasswordLog) 
+2024-06-03 01:03:22.102 +05:30 [INF] AESEncrypt 
+2024-06-03 01:03:37.487 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-06-03 01:03:37.502 +05:30 [INF] Mail Log Details Saved. 
+2024-06-03 01:03:37.502 +05:30 [INF] Password reset successfully done. 

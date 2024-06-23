@@ -1,0 +1,100 @@
+2024-05-28 00:02:49.551 +05:30 [INF] Starting web host 
+2024-05-28 00:03:38.994 +05:30 [INF] Forgot Password 
+2024-05-28 00:03:53.430 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-05-28 00:08:13.413 +05:30 [INF] Starting web host 
+2024-05-28 00:09:09.434 +05:30 [INF] Forgot Password 
+2024-05-28 00:09:29.878 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-05-28 00:10:04.487 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-28 00:10:04.596 +05:30 [INF] Mail Log Details Saved. 
+2024-05-28 00:15:38.951 +05:30 [INF] Forgot Password 
+2024-05-28 00:15:39.853 +05:30 [INF] Password Changed 
+2024-05-28 00:16:18.517 +05:30 [INF] Login Verification 
+2024-05-28 00:16:32.092 +05:30 [INF] Login Verification 
+2024-05-28 00:19:33.792 +05:30 [INF] Forgot Password 
+2024-05-28 00:19:34.167 +05:30 [INF] Password Changed 
+2024-05-28 00:20:01.146 +05:30 [INF] Login Verification 
+2024-05-28 00:20:59.255 +05:30 [INF] Starting web host 
+2024-05-28 00:22:10.650 +05:30 [INF] Forgot Password 
+2024-05-28 00:22:22.205 +05:30 [INF] Password Changed 
+2024-05-28 00:23:10.489 +05:30 [INF] Login Verification 
+2024-05-28 00:23:10.773 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-05-28 00:23:14.882 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-28 00:23:15.009 +05:30 [INF] Mail Log Details Saved. 
+2024-05-28 22:21:11.788 +05:30 [INF] Starting web host 
+2024-05-28 22:23:49.709 +05:30 [INF] Forgot Password 
+2024-05-28 22:24:11.437 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-05-28 22:24:26.464 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-28 22:24:26.601 +05:30 [INF] Mail Log Details Saved. 
+2024-05-28 22:30:44.405 +05:30 [INF] Starting web host 
+2024-05-28 22:31:45.771 +05:30 [ERR] An unhandled exception has occurred while executing the request. 
+System.ApplicationException: A code must be supplied for password reset.
+   at KycBizWebApi.Controllers.UserController.ResetPassword(String token, String Email) in D:\kishore\Latest\KYC\KycBizWebApi\Controllers\UserController.cs:line 837
+   at lambda_method5(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-05-28 22:32:48.478 +05:30 [INF] Starting web host 
+2024-05-28 22:33:39.076 +05:30 [ERR] An unhandled exception has occurred while executing the request. 
+System.ApplicationException: A code must be supplied for password reset.
+   at KycBizWebApi.Controllers.UserController.ResetPassword(String token, String Email) in D:\kishore\Latest\KYC\KycBizWebApi\Controllers\UserController.cs:line 837
+   at lambda_method5(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-05-28 22:35:36.933 +05:30 [INF] Starting web host 
+2024-05-28 22:37:37.721 +05:30 [ERR] An unhandled exception has occurred while executing the request. 
+System.ApplicationException: A code must be supplied for password reset.
+   at KycBizWebApi.Controllers.UserController.ResetPassword(String token, String Email) in D:\kishore\Latest\KYC\KycBizWebApi\Controllers\UserController.cs:line 837
+   at lambda_method5(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-05-28 22:38:29.792 +05:30 [INF] Forgot Password 
+2024-05-28 22:38:38.121 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-05-28 22:38:43.116 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-28 22:38:43.242 +05:30 [INF] Mail Log Details Saved. 

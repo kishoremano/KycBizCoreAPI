@@ -1,0 +1,44 @@
+2024-06-02 18:16:47.073 +05:30 [INF] Starting web host 
+2024-06-02 20:41:27.393 +05:30 [INF] Starting web host 
+2024-06-02 22:41:16.603 +05:30 [INF] Starting web host 
+2024-06-02 22:44:34.752 +05:30 [INF] Starting web host 
+2024-06-02 22:45:50.748 +05:30 [INF] New User Registration. 
+2024-06-02 22:46:20.105 +05:30 [INF] New User Added with given information (DataAccessLayer.Models.UserInfo) 
+2024-06-02 22:46:30.649 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-06-02 22:47:22.830 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-06-02 22:47:29.875 +05:30 [INF] Mail Log Details Saved. 
+2024-06-02 22:54:10.922 +05:30 [INF] Verify Email Otp 
+2024-06-02 22:54:29.146 +05:30 [INF] OTP Expired. 
+2024-06-02 22:56:04.819 +05:30 [INF] Resend OTP 
+2024-06-02 22:56:43.860 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-06-02 22:58:09.657 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-06-02 22:58:09.814 +05:30 [INF] Mail Log Details Saved. 
+2024-06-02 22:59:12.449 +05:30 [INF] Verify Email Otp 
+2024-06-02 22:59:33.997 +05:30 [INF] OTP Verfication completed. 
+2024-06-02 23:01:12.914 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-06-02 23:01:12.966 +05:30 [INF] Mail Log Details Saved. 
+2024-06-02 23:01:12.967 +05:30 [INF] E-Mail Verified. 
+2024-06-02 23:41:55.558 +05:30 [INF] Resend OTP 
+2024-06-02 23:41:59.305 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-06-02 23:42:04.650 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-06-02 23:42:04.723 +05:30 [INF] Mail Log Details Saved. 
+2024-06-02 23:42:51.704 +05:30 [INF] Verify Email Otp 
+2024-06-02 23:42:53.303 +05:30 [INF] OTP Verfication completed. 
+2024-06-02 23:43:01.241 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-06-02 23:43:01.615 +05:30 [INF] Mail Log Details Saved. 
+2024-06-02 23:43:01.615 +05:30 [INF] E-Mail Verified. 
+2024-06-02 23:44:47.424 +05:30 [INF] Forgot Password 
+2024-06-02 23:45:25.778 +05:30 [INF] Forgot Pass Token saved with given Information(DataAccessLayer.Models.ForgotPasswordLog) 
+2024-06-02 23:45:33.261 +05:30 [INF] AESEncrypt 
+2024-06-02 23:47:04.560 +05:30 [INF] Forgot Password 
+2024-06-02 23:49:36.622 +05:30 [INF] Forgot Password 
+2024-06-02 23:49:47.896 +05:30 [INF] AESEncrypt 
+2024-06-02 23:50:22.053 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-06-02 23:50:22.080 +05:30 [INF] Mail Log Details Saved. 
+2024-06-02 23:51:30.068 +05:30 [INF] AESDecrypt 
+2024-06-02 23:53:11.881 +05:30 [INF] ResetPassword 
+2024-06-02 23:53:51.548 +05:30 [INF] GetDeviceDetails 
+2024-06-02 23:53:51.695 +05:30 [INF] Device Details Found 
+2024-06-02 23:55:01.879 +05:30 [INF] Password History Saved 
+2024-06-02 23:55:01.908 +05:30 [INF] Forgot Token Verification completed and Password Changed 
+2024-06-02 23:58:42.374 +05:30 [INF] AESEncrypt 

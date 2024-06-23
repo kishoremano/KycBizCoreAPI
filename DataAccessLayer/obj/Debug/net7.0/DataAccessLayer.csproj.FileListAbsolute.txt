@@ -1,0 +1,70 @@
+D:\kishore\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\kishore\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\kishore\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\kishore\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+D:\kishore\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\kishore\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+D:\kishore\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+D:\kishore\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+D:\kishore\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+D:\kishore\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+D:\kishore\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+D:\kishore\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+D:\kishore\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
+D:\kishore\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+D:\Kishore\130524\KYC\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+D:\Kishore\130524\KYC\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+D:\Kishore\130524\KYC\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+D:\Kishore\130524\KYC\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+D:\Kishore\130524\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Kishore\130524\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kishore\130524\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Kishore\130524\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+D:\Kishore\130524\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Kishore\130524\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+D:\Kishore\130524\KYC\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+D:\Kishore\130524\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+D:\Kishore\130524\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
+D:\Kishore\130524\KYC\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+D:\kishore\New folder\KYC\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+D:\kishore\New folder\KYC\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+D:\kishore\New folder\KYC\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+D:\kishore\New folder\KYC\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+D:\kishore\New folder\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\kishore\New folder\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\kishore\New folder\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\kishore\New folder\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+D:\kishore\New folder\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\kishore\New folder\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+D:\kishore\New folder\KYC\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+D:\kishore\New folder\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+D:\kishore\New folder\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
+D:\kishore\New folder\KYC\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+D:\Kishore\240524\KYC\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+D:\Kishore\240524\KYC\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+D:\Kishore\240524\KYC\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+D:\Kishore\240524\KYC\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+D:\Kishore\240524\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Kishore\240524\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kishore\240524\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Kishore\240524\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+D:\Kishore\240524\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Kishore\240524\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+D:\Kishore\240524\KYC\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+D:\Kishore\240524\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+D:\Kishore\240524\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
+D:\Kishore\240524\KYC\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+D:\kishore\Latest\KYC\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+D:\kishore\Latest\KYC\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+D:\kishore\Latest\KYC\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+D:\kishore\Latest\KYC\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+D:\kishore\Latest\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\kishore\Latest\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\kishore\Latest\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\kishore\Latest\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+D:\kishore\Latest\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\kishore\Latest\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+D:\kishore\Latest\KYC\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+D:\kishore\Latest\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+D:\kishore\Latest\KYC\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
+D:\kishore\Latest\KYC\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll

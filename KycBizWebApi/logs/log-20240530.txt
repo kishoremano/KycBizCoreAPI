@@ -1,0 +1,47 @@
+2024-05-30 19:47:00.720 +05:30 [INF] Starting web host 
+2024-05-30 19:54:35.413 +05:30 [INF] Login Verification 
+2024-05-30 19:55:03.239 +05:30 [INF] Login Verification 
+2024-05-30 19:55:03.905 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-05-30 19:55:18.730 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-30 19:55:18.854 +05:30 [INF] Mail Log Details Saved. 
+2024-05-30 19:59:21.466 +05:30 [INF] Login Verification 
+2024-05-30 19:59:21.834 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-05-30 19:59:26.752 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-30 19:59:26.789 +05:30 [INF] Mail Log Details Saved. 
+2024-05-30 20:41:07.521 +05:30 [INF] Starting web host 
+2024-05-30 20:41:58.019 +05:30 [INF] Login Verification 
+2024-05-30 20:42:22.042 +05:30 [INF] Login Verification 
+2024-05-30 20:42:22.983 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-05-30 20:42:28.361 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-30 20:42:28.498 +05:30 [INF] Mail Log Details Saved. 
+2024-05-30 20:43:21.745 +05:30 [INF] Starting web host 
+2024-05-30 20:44:00.196 +05:30 [INF] Login Verification 
+2024-05-30 20:44:07.255 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-05-30 20:44:11.392 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-30 20:44:11.504 +05:30 [INF] Mail Log Details Saved. 
+2024-05-30 20:48:03.663 +05:30 [INF] Starting web host 
+2024-05-30 20:48:40.798 +05:30 [INF] Forgot Password 
+2024-05-30 20:48:52.913 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-30 20:48:53.266 +05:30 [INF] Mail Log Details Saved. 
+2024-05-30 21:11:28.534 +05:30 [INF] Starting web host 
+2024-05-30 21:12:15.814 +05:30 [INF] Forgot Password 
+2024-05-30 21:12:29.112 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-30 21:12:29.341 +05:30 [INF] Mail Log Details Saved. 
+2024-05-30 21:14:19.073 +05:30 [INF] Forgot Password 
+2024-05-30 21:14:21.117 +05:30 [INF] Already Password Changed. 
+2024-05-30 21:14:44.770 +05:30 [INF] Forgot Password 
+2024-05-30 21:14:47.461 +05:30 [INF] Already Password Changed. 
+2024-05-30 21:17:02.266 +05:30 [INF] Forgot Password 
+2024-05-30 21:17:07.919 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-30 21:17:08.105 +05:30 [INF] Mail Log Details Saved. 
+2024-05-30 21:18:15.931 +05:30 [INF] Forgot Password 
+2024-05-30 21:18:18.688 +05:30 [INF] Already Password Changed. 
+2024-05-30 21:20:48.256 +05:30 [INF] Starting web host 
+2024-05-30 21:22:57.081 +05:30 [INF] Forgot Password 
+2024-05-30 21:23:49.435 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-30 21:23:49.705 +05:30 [INF] Mail Log Details Saved. 
+2024-05-30 21:24:49.607 +05:30 [INF] Forgot Password 
+2024-05-30 21:25:11.730 +05:30 [INF] Forgot Token Verfication completed and Password Changed 
+2024-05-30 21:25:17.125 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-30 21:25:17.161 +05:30 [INF] Mail Log Details Saved. 
+2024-05-30 23:59:17.041 +05:30 [INF] Starting web host 

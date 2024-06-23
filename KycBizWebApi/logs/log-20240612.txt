@@ -1,0 +1,49 @@
+2024-06-12 20:17:43.373 +05:30 [INF] Starting web host 
+2024-06-12 20:21:38.247 +05:30 [INF] Login Verification 
+2024-06-12 20:21:40.441 +05:30 [WRN] The decimal property 'ErrorId' is part of a key on entity type 'ErrorLog'. If the configured precision and scale don't match the column type in the database, this will cause values to be silently truncated if they do not fit in the default precision and scale. Consider using a different property as the key, or make sure that the database column type matches the model configuration and enable decimal rounding warnings using 'SET NUMERIC_ROUNDABORT ON'. 
+2024-06-12 20:21:47.319 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-06-12 20:21:49.950 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-06-12 20:21:50.060 +05:30 [INF] Mail Log Details Saved. 
+2024-06-12 20:38:33.544 +05:30 [INF] New User Registration. 
+2024-06-12 20:38:33.622 +05:30 [INF] Validating Password 
+2024-06-12 20:38:33.623 +05:30 [INF] Password must contain at least one uppercase letter. 
+2024-06-12 20:38:55.955 +05:30 [INF] New User Registration. 
+2024-06-12 20:38:55.992 +05:30 [INF] Validating Password 
+2024-06-12 20:38:55.992 +05:30 [INF] Password Valid 
+2024-06-12 20:38:56.068 +05:30 [INF] New User Added with given information (DataAccessLayer.Models.UserInfo) 
+2024-06-12 20:38:56.096 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-06-12 20:38:58.530 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-06-12 20:38:58.609 +05:30 [INF] Mail Log Details Saved. 
+2024-06-12 20:38:58.609 +05:30 [INF] Data Added Successfully 
+2024-06-12 20:40:38.639 +05:30 [INF] Verify Email Otp 
+2024-06-12 20:40:40.520 +05:30 [INF] OTP Verfication completed. 
+2024-06-12 20:40:42.794 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-06-12 20:40:42.817 +05:30 [INF] Mail Log Details Saved. 
+2024-06-12 20:40:42.817 +05:30 [INF] E-Mail Verified. 
+2024-06-12 20:41:50.703 +05:30 [INF] Login Verification 
+2024-06-12 20:41:50.888 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-06-12 20:41:52.763 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-06-12 20:41:52.918 +05:30 [INF] Mail Log Details Saved. 
+2024-06-12 20:42:38.642 +05:30 [INF] Login Otp Verify 
+2024-06-12 20:42:38.667 +05:30 [INF] OTP Verfication completed. 
+2024-06-12 20:42:40.914 +05:30 [INF] Token Generated 
+2024-06-12 20:42:40.914 +05:30 [INF] Token Generated 
+2024-06-12 20:45:03.215 +05:30 [INF] Get User Details 
+2024-06-12 20:48:22.107 +05:30 [INF] Forgot Password 
+2024-06-12 20:48:24.520 +05:30 [INF] Forgot Pass Token saved with given Information(DataAccessLayer.Models.ForgotPasswordLog) 
+2024-06-12 20:48:24.521 +05:30 [INF] AESEncrypt 
+2024-06-12 20:48:26.758 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-06-12 20:48:26.783 +05:30 [INF] Mail Log Details Saved. 
+2024-06-12 20:48:42.850 +05:30 [INF] AESDecrypt 
+2024-06-12 20:51:42.518 +05:30 [INF] ResetPassword 
+2024-06-12 20:51:44.603 +05:30 [INF] GetDeviceDetails 
+2024-06-12 20:51:44.797 +05:30 [INF] Device Details Found 
+2024-06-12 20:51:44.812 +05:30 [INF] Validating Password 
+2024-06-12 20:51:44.813 +05:30 [INF] Password Valid 
+2024-06-12 20:51:45.661 +05:30 [INF] Password History Saved 
+2024-06-12 20:51:45.723 +05:30 [INF] Forgot Token Verification completed and Password Changed 
+2024-06-12 20:51:45.751 +05:30 [INF] Forgot Pass Token saved with given Information(DataAccessLayer.Models.ForgotPasswordLog) 
+2024-06-12 20:51:45.751 +05:30 [INF] AESEncrypt 
+2024-06-12 20:51:50.208 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-06-12 20:51:50.221 +05:30 [INF] Mail Log Details Saved. 
+2024-06-12 20:51:50.221 +05:30 [INF] Password reset successfully done. 

@@ -1,0 +1,53 @@
+2024-05-27 00:06:25.242 +05:30 [INF] Starting web host 
+2024-05-27 00:08:30.404 +05:30 [INF] Resend OTP 
+2024-05-27 00:11:49.334 +05:30 [INF] Resend OTP 
+2024-05-27 00:14:26.222 +05:30 [INF] Starting web host 
+2024-05-27 00:15:35.089 +05:30 [INF] Resend OTP 
+2024-05-27 00:16:43.366 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-05-27 00:16:46.715 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-27 00:16:46.889 +05:30 [INF] Mail Log Details Saved. 
+2024-05-27 00:17:23.910 +05:30 [INF] Starting web host 
+2024-05-27 00:17:51.435 +05:30 [INF] Resend OTP 
+2024-05-27 00:19:32.424 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-05-27 00:19:35.663 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-27 00:19:36.002 +05:30 [INF] Mail Log Details Saved. 
+2024-05-27 00:19:50.345 +05:30 [INF] Resend OTP 
+2024-05-27 00:21:02.967 +05:30 [INF] Starting web host 
+2024-05-27 00:21:32.062 +05:30 [INF] Resend OTP 
+2024-05-27 00:21:46.140 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-05-27 00:21:48.978 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-27 00:21:49.560 +05:30 [INF] Mail Log Details Saved. 
+2024-05-27 00:22:37.317 +05:30 [INF] Resend OTP 
+2024-05-27 00:23:43.022 +05:30 [INF] Verify Email Otp 
+2024-05-27 00:23:59.127 +05:30 [INF] OTP Verfication completed. 
+2024-05-27 00:24:00.936 +05:30 [INF] E-Mail Verified. 
+2024-05-27 00:24:12.955 +05:30 [INF] Verify Email Otp 
+2024-05-27 00:24:58.519 +05:30 [INF] Login Verification 
+2024-05-27 00:25:22.351 +05:30 [INF] Login Verification 
+2024-05-27 00:25:43.349 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-05-27 00:26:02.712 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-27 00:26:07.264 +05:30 [INF] Mail Log Details Saved. 
+2024-05-27 00:26:25.448 +05:30 [INF] Resend OTP 
+2024-05-27 00:27:17.805 +05:30 [INF] Resend OTP 
+2024-05-27 00:27:19.301 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-05-27 00:27:22.211 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-27 00:27:22.781 +05:30 [INF] Mail Log Details Saved. 
+2024-05-27 00:33:36.570 +05:30 [INF] Login Otp Verify 
+2024-05-27 00:33:38.617 +05:30 [INF] OTP Expired. 
+2024-05-27 00:33:56.152 +05:30 [INF] Resend OTP 
+2024-05-27 00:33:59.388 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-05-27 00:34:02.596 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-27 00:34:02.627 +05:30 [INF] Mail Log Details Saved. 
+2024-05-27 00:34:36.898 +05:30 [INF] Login Otp Verify 
+2024-05-27 00:34:45.990 +05:30 [INF] OTP Verfication completed. 
+2024-05-27 00:35:00.388 +05:30 [INF] Token Generated 
+2024-05-27 23:51:37.935 +05:30 [INF] Starting web host 
+2024-05-27 23:52:46.296 +05:30 [INF] Login Verification 
+2024-05-27 23:53:05.726 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-05-27 23:53:37.917 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-27 23:53:43.649 +05:30 [INF] Mail Log Details Saved. 
+2024-05-27 23:57:12.220 +05:30 [INF] Starting web host 
+2024-05-27 23:57:53.792 +05:30 [INF] Forgot Password 
+2024-05-27 23:58:13.342 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-05-27 23:58:34.738 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-27 23:58:40.062 +05:30 [INF] Mail Log Details Saved. 

@@ -1,0 +1,7 @@
+2024-05-31 00:01:15.753 +05:30 [INF] Forgot Password 
+2024-05-31 00:02:16.495 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-31 00:02:16.770 +05:30 [INF] Mail Log Details Saved. 
+2024-05-31 00:04:15.160 +05:30 [INF] Forgot Password 
+2024-05-31 00:07:05.266 +05:30 [INF] Forgot Token Verfication completed and Password Changed 
+2024-05-31 00:07:10.302 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-31 00:07:10.334 +05:30 [INF] Mail Log Details Saved. 

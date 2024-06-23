@@ -1,0 +1,48 @@
+2024-05-29 21:31:15.404 +05:30 [INF] Starting web host 
+2024-05-29 21:48:31.500 +05:30 [INF] Forgot Password 
+2024-05-29 21:48:54.228 +05:30 [INF] Forgot Pass Token saved with given Information(DataAccessLayer.Models.ForgotPasswordLog) 
+2024-05-29 21:49:28.547 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-29 21:49:35.394 +05:30 [INF] Mail Log Details Saved. 
+2024-05-29 21:54:28.305 +05:30 [INF] Forgot Password 
+2024-05-29 21:55:13.151 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-29 21:55:13.158 +05:30 [INF] Mail Log Details Saved. 
+2024-05-29 21:56:10.255 +05:30 [INF] Forgot Password 
+2024-05-29 21:56:25.012 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-29 21:56:25.017 +05:30 [INF] Mail Log Details Saved. 
+2024-05-29 21:56:40.330 +05:30 [INF] Forgot Password 
+2024-05-29 21:56:47.811 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-29 21:56:47.816 +05:30 [INF] Mail Log Details Saved. 
+2024-05-29 21:56:58.086 +05:30 [INF] Forgot Password 
+2024-05-29 21:57:01.489 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-29 21:57:01.494 +05:30 [INF] Mail Log Details Saved. 
+2024-05-29 21:57:42.972 +05:30 [INF] Forgot Password 
+2024-05-29 22:02:35.884 +05:30 [INF] Forgot Password 
+2024-05-29 22:14:49.612 +05:30 [INF] Starting web host 
+2024-05-29 22:24:38.628 +05:30 [INF] Forgot Password 
+2024-05-29 22:27:10.793 +05:30 [INF] Starting web host 
+2024-05-29 22:46:20.693 +05:30 [INF] Forgot Password 
+2024-05-29 22:46:53.570 +05:30 [INF] Token Mimatching. 
+2024-05-29 22:47:36.078 +05:30 [INF] Forgot Password 
+2024-05-29 22:48:18.910 +05:30 [INF] Token Mimatching. 
+2024-05-29 22:48:33.839 +05:30 [INF] Forgot Password 
+2024-05-29 22:48:52.040 +05:30 [INF] Forgot Token Expired. 
+2024-05-29 22:49:54.161 +05:30 [INF] Forgot Password 
+2024-05-29 22:50:05.380 +05:30 [INF] User not found in ResetPassword 
+2024-05-29 22:50:32.281 +05:30 [INF] Forgot Password 
+2024-05-29 22:50:36.244 +05:30 [INF] User not found in ResetPassword 
+2024-05-29 22:51:03.735 +05:30 [INF] Forgot Password 
+2024-05-29 22:51:36.181 +05:30 [INF] This User not requested for Reset Password 
+2024-05-29 22:53:02.265 +05:30 [INF] Forgot Password 
+2024-05-29 22:53:08.623 +05:30 [INF] User Details not found in ForgotPassword 
+2024-05-29 22:53:36.028 +05:30 [INF] Forgot Password 
+2024-05-29 23:30:23.821 +05:30 [INF] Forgot Password 
+2024-05-29 23:30:31.421 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-29 23:30:31.721 +05:30 [INF] Mail Log Details Saved. 
+2024-05-29 23:31:36.506 +05:30 [INF] Forgot Password 
+2024-05-29 23:32:17.587 +05:30 [INF] Forgot Token Verfication completed and Password Changed 
+2024-05-29 23:32:30.459 +05:30 [INF] Forgot Password 
+2024-05-29 23:32:46.196 +05:30 [INF] Already Password Changed. 
+2024-05-29 23:33:34.587 +05:30 [INF] Login Verification 
+2024-05-29 23:33:37.617 +05:30 [INF] OTP saved with given Information({ otpLog}) 
+2024-05-29 23:33:41.177 +05:30 [INF] E-Mail send with given Information (System.Net.Mail.MailMessage) 
+2024-05-29 23:33:41.185 +05:30 [INF] Mail Log Details Saved. 
